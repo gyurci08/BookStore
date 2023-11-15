@@ -1,0 +1,134 @@
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\appsettings.Development.json
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\appsettings.json
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\BookStore.staticwebassets.runtime.json
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\BookStore.exe
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\BookStore.deps.json
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\BookStore.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\BookStore.pdb
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.RazorAssemblyInfo.cache
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.RazorAssemblyInfo.cs
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.BookStore.props
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookStore.props
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookStore.props
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.pack.json
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\scopedcss\projectbundle\BookStore.bundle.scp.css
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.dll
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.pdb
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\ref\BookStore.dll
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Humanizer.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\GVARTC\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CopyComplete
+D:\GVARTC\BookStore\BookStore\bin\Debug\net6.0\libman.json
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\appsettings.json
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\libman.json
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\BookStore.staticwebassets.runtime.json
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\BookStore.exe
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\BookStore.deps.json
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\BookStore.runtimeconfig.json
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\BookStore.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\BookStore.pdb
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.AssemblyInfo.cs
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.RazorAssemblyInfo.cache
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.RazorAssemblyInfo.cs
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.BookStore.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.build.BookStore.props
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookStore.props
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookStore.props
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\scopedcss\bundle\BookStore.styles.css
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\scopedcss\projectbundle\BookStore.bundle.scp.css
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.csproj.CopyComplete
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\refint\BookStore.dll
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.pdb
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\BookStore.genruntimeconfig.cache
+C:\Users\Jandzsó György\OneDrive\Documents\Development\C#\.NET CORE\BookStore\BookStore\obj\Debug\net6.0\ref\BookStore.dll

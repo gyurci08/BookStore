@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = ViewBag.Title;
+}
+
+@model Book
+
+<div class="text-center">
+    <h1 class="display-4">Our Staff's pick: </h1>
+    <ul class="list-group">
+        <li class="list-group-item list-group-item-heading list-group-item-heading-success">
+            <h5>
+                <a asp-controller="Book" asp-action="Details" asp-route-id="@Model.BookId" asp-route-slug="@Model.Title.Slug()"> @Model.Title </a>  <!-- slug: nevesítve írja ki a paramétereket-->
+            </h5>
+        </li>
+    </ul>
+
+
+</div>
