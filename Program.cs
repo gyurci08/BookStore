@@ -1,4 +1,4 @@
-using BookStore.Models;
+Ôªøusing BookStore.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace BookStore
@@ -9,24 +9,28 @@ namespace BookStore
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
-            builder.Services.AddControllersWithViews();
-
+            
             // Ez is kell az adminhoz.
             builder.Services.AddRouting(options => options.LowercaseUrls = true);
 
+            builder.Services.AddMemoryCache();
+
+            builder.Services.AddSession();
 
 
 
+           
 
 
-
-            // Tov·bbi konfigur·ciÛs be·llÌt·sok
+            // Tov√°bbi konfigur√°ci√≥s be√°ll√≠t√°sok
 
             builder.Services.AddDbContext<BookStoreContext>( options => options.UseSqlServer(builder.Configuration.GetConnectionString("BookStoreContext")) );
 
 
 
+
+            // Add services to the container.
+            builder.Services.AddControllersWithViews();
 
 
 
@@ -51,10 +55,16 @@ namespace BookStore
 
             app.UseAuthorization();
 
+            app.UseSession(); // megh√≠vjuk, hogy tudjunk session-t kezelni
 
-
-            // ez vezeti r· az admin ter¸letre
+            // ez vezeti r√° az admin ter√ºletre, mindig default el≈ëtt kell
             app.MapAreaControllerRoute(name: "admin", areaName: "Admin", pattern: "Admin/{controller=Book}/{action=Index}/{id?}");
+            app.MapControllerRoute( name: "page_sort",
+                                    pattern: "{ controller }/{ action }/{ pagenumber}/ size /{ pagesize }/ sort /{ sortfield }/{sortdirection}");
+
+
+
+
 
 
             app.MapControllerRoute(
